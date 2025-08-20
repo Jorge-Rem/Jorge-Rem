@@ -41,6 +41,4 @@
   </a>
 </p>
 
-## Academic Work
-
-[Project example (Portuguese)](https://drive.google.com) <!-- Substitua pelo link real se tiver -->
+ 
